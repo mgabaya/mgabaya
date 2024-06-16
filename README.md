@@ -1,6 +1,14 @@
-## Hello there 👋
-
 ![hello there](https://preview.redd.it/how-popular-was-obi-wans-hello-there-in-anh-until-rots-came-v0-a2t3qburcrka1.jpg?width=453&format=pjpg&auto=webp&s=524513517a3e0ca20e8bccc2993a149ce3258990)
+
+## Hello there 👋 I'm Mark Gabaya
+
+
+
+- 🔭 I’m currently working on a data visualization project on my wife's purse usage in 2023.
+- 🌱 I’m currently learning more advanced techniques in data visualization and machine learning.
+- 💬 Ask me about my son Gus, quadcopters, sci-fi books, tennis and skiing!
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I used to get confused as a student when I was a high school teacher.
 
 <!--
 **mgabaya/mgabaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
