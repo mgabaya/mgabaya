@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on a data visualization project on my wife's purse usage in 2023.
+- 🔭 I’m currently working on a data visualization project.
 - 🌱 I’m currently learning more advanced techniques in data visualization and machine learning.
 - 💬 Ask me about my son Gus, quadcopters, sci-fi books, tennis and skiing!
 - 😄 Pronouns: He/him
